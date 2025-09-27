@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FindMyPet</string>
+    <string name="app_name">찾아줄개</string>
+    <string name="login">로그인</string>
 </resources>
